@@ -18,7 +18,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=git,github,kubernetes,docker,aws,gitlab,cs,dotnet,go,react,js,ts,nodejs,py,django,html,css,bash,godot,rider)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,kubernetes,docker,aws,gitlab,cs,dotnet,go,rust,react,js,ts,nodejs,py,django,html,css,bash,godot,rider)](https://skillicons.dev)
 
 ---
 
